@@ -1,6 +1,6 @@
 # A simple filesystem
 
-An *N-array tree* based filesystem, with all the files and folders in the same directory level represented in the same level of the filesystem tree.
+A *N-array tree* based filesystem, with all the files and folders in the same directory level represented in the same level of the filesystem tree.
 
 The filesystem could be implemented as custom filesystem using loadable Linux kernel module for Linux based systems.
 
