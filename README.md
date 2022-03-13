@@ -4,7 +4,7 @@ An *N-array tree* based filesystem, with all the files and folders in the same d
 
 The filesystem could be implemented as custom filesystem using loadable Linux kernel module for Linux based systems.
 
-## Suppoted operations
+## Supported operations
 
 The filesystem supports the following operations
 
